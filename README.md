@@ -1,7 +1,39 @@
-<!-- Banner -->
-<p align="center">
-  <img src="coder.gif" width="500" alt="Coding Animation"/>
-</p>
+# Hii, I'm Kunal! 👋
+
+<div align="center">
+  <img src="coder.gif" width="600"/>
+</div>
+
+<!-- Activity Graph and Stats -->
+<h2 align="center">📊 Contribution Graph and Stats</h2>
+
+[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsanga&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsanga&theme=radical"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsanga&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsanga&theme=radical"/>
+</div>
+
+<!-- Social Media Badges -->
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sanga-67323a285/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kunal_sanga_/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kunal_sanga_/)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kunalsanga07)
+  
+  
+</div>
+>>>>>>> b54d96343e5a837096bef4bb7b0077aa0a30622d
 
 <h1 align="center">Hi, I'm Kunal! <img src="https://emojis.slackmojis.com/emojis/images/1643514611/6786/wave_hello.gif?1643514611" width="30"/></h1>
 
