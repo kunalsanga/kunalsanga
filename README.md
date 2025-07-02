@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="coder.gif" width="300"/>
-</div>
-
 <br/>
 
 - 💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems.
