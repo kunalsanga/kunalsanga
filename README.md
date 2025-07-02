@@ -1,7 +1,7 @@
 # Hii, I'm Kunal! 👋
 
 <div align="center">
-  <img src="coder.gif" width="300"/>
+  <img src="coder.gif" width="600"/>
 </div>
 
 <!-- Activity Graph and Stats -->
