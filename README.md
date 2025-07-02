@@ -1,7 +1,11 @@
 # Hii, I'm Kunal! 👋
 
 <div align="center">
+<<<<<<< HEAD
   <img src="coder.gif" width="300"/>
+=======
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+>>>>>>> ec481cf141cc47df53000b36046c533d461a713f
 </div>
 
 <!-- Activity Graph and Stats -->
