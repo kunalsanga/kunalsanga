@@ -55,7 +55,7 @@
       <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp" />
   </a>
   <br/>
-  <img src="https://docs.soliditylang.org/en/v0.8.19/_images/logo.svg" height="40" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
       
     
   ### 📚 Libraries & Frameworks
@@ -63,30 +63,23 @@
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
   </a>
   <br/>
-  <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" height="40" alt="Django" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
 
   ### 🤖 AI / ML Libraries
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit" />
   </a>
   <br/>
-  <img src="https://xgboost.readthedocs.io/en/stable/_static/xgboost_logo.png" height="40" alt="XGBoost" />
-  <img src="https://opencv.org/wp-content/uploads/2021/07/opencv-logo-1.png" height="40" alt="OpenCV" />
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib" />
-  <img src="https://spacy.io/static/img/logo.svg" height="40" alt="spaCy" />
-  <img src="https://nltk.org/_static/nltk_logo.png" height="40" alt="NLTK" />
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/cudnn/cudnn-logo.png" height="40" alt="cuDNN" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
 
   ### 🌐 Web3 & Mobile Development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
   <br/>
-  <img src="https://web3js.org/web3js_logo.png" height="40" alt="Web3.js" />
-  <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c8c4b5e.svg" height="40" alt="Hardhat" />
-  <img src="https://trufflesuite.com/assets/img/logo-dark.svg" height="40" alt="Truffle" />
-  <img src="https://ethereum.org/static/6b935ac0e337424734e5f2d733248f0/13c43/eth-diamond-black.png" height="40" alt="Ethereum" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum" />
 
     
   ### 🗃️ Databases
@@ -106,13 +99,12 @@
     <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman,docker" />
   </a>
   <br/>
-  <img src="https://developer.android.com/static/images/studio/studio-icon.png" height="40" alt="Android Studio" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab" />
-  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/max2020/mnemonics/illustrator.svg" height="40" alt="Adobe Illustrator" />
-  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/max2020/mnemonics/photoshop.svg" height="40" alt="Adobe Photoshop" />
-  <img src="https://unity.com/sites/default/files/2021-08/unity-logo-black.png" height="40" alt="Unity" />
-  <img src="https://gradle.org/images/gradle-enterprise-logo.svg" height="40" alt="Gradle" />
-  <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" height="40" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Adobe Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
 
 ### 🖥️ Operating Systems
 <a href="https://skillicons.dev">
