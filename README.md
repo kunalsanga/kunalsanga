@@ -94,12 +94,12 @@
 
 ### 📂 Featured Repositories:
 
-- [PRODIGY_TrackCode_TaskNumber](https://github.com/kunalsanga/PRODIGY_TrackCode_TaskNumber) - Prodigy Infotech internship projects
-- [BIO_reactor](https://github.com/kunalsanga/BIO_reactor) - Bioreactor project implementation
-- [leetcode](https://github.com/kunalsanga/leetcode) - Collection of LeetCode problem solutions
-- [Java_practice](https://github.com/kunalsanga/JAVA_practice) - Java programming practice
-- [Python_practice](https://github.com/kunalsanga/Python_practice) - Python programming practice
-- [C_practice](https://github.com/kunalsanga/C_practice) - C programming practice
+- [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
+- [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
+- [**Solana Token App**](https://github.com/kunalsanga/Solana-token-app.git) - Web3 application for Solana blockchain token management
+- [**NIT Jamshedpur Research**](https://github.com/kunalsanga/NIT-Jamshedpur-Research-work.git) - Research work and academic projects at NIT Jamshedpur
+- [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
+- [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
 
 ### 📊 My GitHub Stats:
 
