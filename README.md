@@ -52,18 +52,18 @@
 
 ### 🧑‍💻 Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
   </a>
       
     
   ### 📚 Libraries & Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,npm,vite" />
   </a>
 
   ### 🤖 AI / ML Libraries
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit,opencv" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   </a>
 
   ### 🌐 Web3 & Mobile Development
@@ -86,7 +86,7 @@
     
   ### 🛠️ Software Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman,docker,unity" />
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,blender,docker,unity" />
   </a>
 
 ### 🖥️ Operating Systems
