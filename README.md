@@ -50,55 +50,55 @@
 
 <h3>Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
 </p>
 
 <h3>Libraries and Frameworks</h3>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
+  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
 </p>
 
 <h3>Databases</h3>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
 </p>
 
 <h3>Cloud Services</h3>
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP"/>
 </p>
 
 <h3>Software Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JetBrains%20PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
+  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel"/>
+  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>
 </p>
 
 <h3>Operating Systems / Kernels</h3>
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/>
 </p>
 
 
