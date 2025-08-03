@@ -46,56 +46,32 @@
 - 📚 Working on various practice projects in Java, Python, and C
 - 🌱 Learning and implementing Machine Learning concepts
 
-## Technologies I've worked with
+## 🛠️ Technologies & Tools
 
-<div align="center">
+### 🧑‍💻 Languages
+- **JavaScript** • **TypeScript** • **Python** • **C++** • **Java** • **C** • **Bash** • **Dart** • **Solidity** • **HTML** • **CSS** • **SQL**
 
-### Languages
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
-  </a>
-      
-    
-  ### Libraries and Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi,opencv" />
-  </a>
+### 📚 Libraries & Frameworks
+- **React** • **Next.js** • **Tailwind CSS** • **Bootstrap** • **Express.js** • **Node.js** • **Material UI (MUI)** • **npm** • **Vite** • **Django** • **FastAPI**
 
-  ### AI / ML Libraries
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit" />
-  </a>
-  <br/>
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib" />
-  <img src="https://spacy.io/static/img/logo.svg" height="40" alt="spaCy" />
-  <img src="https://nltk.org/_static/nltk_logo.png" height="40" alt="NLTK" />
+### 🤖 AI / ML Libraries & Concepts
+- **TensorFlow** • **PyTorch** • **Keras** • **NumPy** • **Pandas** • **Scikit-learn** • **XGBoost** • **OpenCV** • **Matplotlib** • **spaCy** • **NLTK** • **cuDNN**
+- **Natural Language Processing (NLP)** • **Large Language Models (LLMs)**
 
-    
-  ### Databases
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,sqlite" />
-  </a>
+### 🌐 Web3 & Mobile Development
+- **Flutter** • **Web3.js** • **Hardhat** • **Truffle**
 
+### 🗃️ Databases
+- **PostgreSQL** • **MongoDB** • **MySQL** • **Firebase** • **SQLite**
 
-   ### Cloud Services
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,vercel,render" />
-  </a>
-   
-    
-  ### Software Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman" />
-  </a>
- 
+### ☁️ Cloud Services
+- **AWS (Amazon Web Services)** • **Google Cloud** • **Vercel** • **Render**
 
-### Operating Systems/ Kernels
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,windows,powershell" />
-</a>
+### 🛠️ Software Tools
+- **Git** • **GitHub** • **WebStorm** • **IntelliJ IDEA** • **PyCharm** • **VS Code** • **Android Studio** • **Jupyter Notebook** • **Google Colab** • **Postman** • **Adobe Illustrator** • **Adobe Photoshop** • **Figma** • **Docker** • **Selenium** • **Vim** • **Blender** • **Unity** • **Gradle**
 
-</div>
-<br/>
+### 🖥️ Operating Systems
+- **Windows** • **Linux**
 
 
 
