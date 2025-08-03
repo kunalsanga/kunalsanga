@@ -63,13 +63,12 @@
 
   ### AI / ML Libraries
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/explosion/spaCy/website/src/images/icon.png" height="40" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit" />
   </a>
+  <br/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib" />
+  <img src="https://spacy.io/static/img/logo.svg" height="40" alt="spaCy" />
+  <img src="https://nltk.org/_static/nltk_logo.png" height="40" alt="NLTK" />
 
     
   ### Databases
