@@ -52,14 +52,19 @@
 
 ### 🧑‍💻 Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp" />
   </a>
+  <br/>
+  <img src="https://docs.soliditylang.org/en/v0.8.19/_images/logo.svg" height="40" alt="Solidity" />
       
     
   ### 📚 Libraries & Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
   </a>
+  <br/>
+  <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" height="40" alt="Django" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" />
 
   ### 🤖 AI / ML Libraries
   <a href="https://skillicons.dev">
@@ -71,6 +76,7 @@
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib" />
   <img src="https://spacy.io/static/img/logo.svg" height="40" alt="spaCy" />
   <img src="https://nltk.org/_static/nltk_logo.png" height="40" alt="NLTK" />
+  <img src="https://developer.nvidia.com/sites/default/files/akamai/cudnn/cudnn-logo.png" height="40" alt="cuDNN" />
 
   ### 🌐 Web3 & Mobile Development
   <a href="https://skillicons.dev">
@@ -80,6 +86,7 @@
   <img src="https://web3js.org/web3js_logo.png" height="40" alt="Web3.js" />
   <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c8c4b5e.svg" height="40" alt="Hardhat" />
   <img src="https://trufflesuite.com/assets/img/logo-dark.svg" height="40" alt="Truffle" />
+  <img src="https://ethereum.org/static/6b935ac0e337424734e5f2d733248f0/13c43/eth-diamond-black.png" height="40" alt="Ethereum" />
 
     
   ### 🗃️ Databases
@@ -105,6 +112,7 @@
   <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/max2020/mnemonics/photoshop.svg" height="40" alt="Adobe Photoshop" />
   <img src="https://unity.com/sites/default/files/2021-08/unity-logo-black.png" height="40" alt="Unity" />
   <img src="https://gradle.org/images/gradle-enterprise-logo.svg" height="40" alt="Gradle" />
+  <img src="https://www.jetbrains.com/idea/img/idea-edu.svg" height="40" alt="IntelliJ IDEA" />
 
 ### 🖥️ Operating Systems
 <a href="https://skillicons.dev">
