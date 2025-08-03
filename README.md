@@ -52,34 +52,24 @@
 
 ### 🧑‍💻 Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
   </a>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
       
     
   ### 📚 Libraries & Frameworks
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
   </a>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
 
   ### 🤖 AI / ML Libraries
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit,opencv" />
   </a>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
 
   ### 🌐 Web3 & Mobile Development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Ethereum" />
 
     
   ### 🗃️ Databases
@@ -90,21 +80,14 @@
 
    ### ☁️ Cloud Services
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud,vercel,render" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
   </a>
    
     
   ### 🛠️ Software Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman,docker,unity" />
   </a>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Adobe Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="Gradle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
 
 ### 🖥️ Operating Systems
 <a href="https://skillicons.dev">
