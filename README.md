@@ -23,6 +23,11 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsanga&theme=radical"/>
 </div>
 
+<!-- 3D GitHub Contribution Graph -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" width="700px">
+</div>
+
 <!-- Social Media Badges -->
 <div align="center">
   
