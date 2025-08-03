@@ -1,0 +1,48 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  update-readme:
+    name: Update README with fresh stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update GitHub stats automatically'
+          MAX_LINES: 5
+          
+      - name: Update Profile Views
+        run: |
+          # Force refresh of profile views counter
+          curl -s "https://komarev.com/ghpvc/?username=kunalsanga&style=flat-square&color=blue" > /dev/null
+          
+      - name: Update Activity Graph
+        run: |
+          # Force refresh of activity graph
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark" > /dev/null
+          
+      - name: Update Profile Summary Cards
+        run: |
+          # Force refresh of profile summary cards
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical" > /dev/null
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsanga&theme=radical" > /dev/null
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsanga&theme=radical" > /dev/null
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsanga&theme=radical" > /dev/null
+          curl -s "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsanga&theme=radical" > /dev/null
+          
+      - name: Update GitHub Stats
+        run: |
+          # Force refresh of GitHub stats
+          curl -s "https://github-readme-stats.vercel.app/api?username=kunalsanga&show_icons=true&theme=radical" > /dev/null
+          curl -s "https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsanga&layout=compact&theme=radical" > /dev/null 
