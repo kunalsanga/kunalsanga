@@ -61,16 +61,6 @@
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,npm,vite" />
   </a>
 
-  ### 🤖 AI / ML Libraries
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  </a>
-
-  ### 🌐 Web3 & Mobile Development
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-  </a>
-
     
   ### 🗃️ Databases
   <a href="https://skillicons.dev">
