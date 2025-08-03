@@ -4,6 +4,11 @@
   <img src="coder.gif" width="600"/>
 </div>
 
+<!-- 3D Contribution Profile -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" width="700px"/>
+</div>
+
 <!-- Activity Graph and Stats -->
 <h2 align="center">📊 Contribution Graph and Stats</h2>
 

@@ -21,8 +21,8 @@ jobs:
           
       - name: Generate 3D-Contrib
         run: |
-          npm install -g @yiskylee/3d-contrib
-          3d-contrib --username ${{ github.repository_owner }} --output profile-3d-contrib/profile-night-green.svg --theme night-green
+          npm install -g @yoyouyu/github-profile-3d-contrib
+          github-profile-3d-contrib --username ${{ github.repository_owner }} --output profile-3d-contrib/profile-night-rainbow.svg --theme night-rainbow
           
       - name: Deploy
         run: |
