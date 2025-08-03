@@ -48,30 +48,71 @@
 
 ## 🛠️ Technologies & Tools
 
+<div align="center">
+
 ### 🧑‍💻 Languages
-- **JavaScript** • **TypeScript** • **Python** • **C++** • **Java** • **C** • **Bash** • **Dart** • **Solidity** • **HTML** • **CSS** • **SQL**
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
+  </a>
+      
+    
+  ### 📚 Libraries & Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi" />
+  </a>
 
-### 📚 Libraries & Frameworks
-- **React** • **Next.js** • **Tailwind CSS** • **Bootstrap** • **Express.js** • **Node.js** • **Material UI (MUI)** • **npm** • **Vite** • **Django** • **FastAPI**
+  ### 🤖 AI / ML Libraries
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,numpy,pandas,scikit" />
+  </a>
+  <br/>
+  <img src="https://xgboost.readthedocs.io/en/stable/_static/xgboost_logo.png" height="40" alt="XGBoost" />
+  <img src="https://opencv.org/wp-content/uploads/2021/07/opencv-logo-1.png" height="40" alt="OpenCV" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib" />
+  <img src="https://spacy.io/static/img/logo.svg" height="40" alt="spaCy" />
+  <img src="https://nltk.org/_static/nltk_logo.png" height="40" alt="NLTK" />
 
-### 🤖 AI / ML Libraries & Concepts
-- **TensorFlow** • **PyTorch** • **Keras** • **NumPy** • **Pandas** • **Scikit-learn** • **XGBoost** • **OpenCV** • **Matplotlib** • **spaCy** • **NLTK** • **cuDNN**
-- **Natural Language Processing (NLP)** • **Large Language Models (LLMs)**
+  ### 🌐 Web3 & Mobile Development
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
+  <br/>
+  <img src="https://web3js.org/web3js_logo.png" height="40" alt="Web3.js" />
+  <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c8c4b5e.svg" height="40" alt="Hardhat" />
+  <img src="https://trufflesuite.com/assets/img/logo-dark.svg" height="40" alt="Truffle" />
 
-### 🌐 Web3 & Mobile Development
-- **Flutter** • **Web3.js** • **Hardhat** • **Truffle**
+    
+  ### 🗃️ Databases
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,sqlite" />
+  </a>
 
-### 🗃️ Databases
-- **PostgreSQL** • **MongoDB** • **MySQL** • **Firebase** • **SQLite**
 
-### ☁️ Cloud Services
-- **AWS (Amazon Web Services)** • **Google Cloud** • **Vercel** • **Render**
-
-### 🛠️ Software Tools
-- **Git** • **GitHub** • **WebStorm** • **IntelliJ IDEA** • **PyCharm** • **VS Code** • **Android Studio** • **Jupyter Notebook** • **Google Colab** • **Postman** • **Adobe Illustrator** • **Adobe Photoshop** • **Figma** • **Docker** • **Selenium** • **Vim** • **Blender** • **Unity** • **Gradle**
+   ### ☁️ Cloud Services
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud,vercel,render" />
+  </a>
+   
+    
+  ### 🛠️ Software Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman,docker" />
+  </a>
+  <br/>
+  <img src="https://developer.android.com/static/images/studio/studio-icon.png" height="40" alt="Android Studio" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab" />
+  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/max2020/mnemonics/illustrator.svg" height="40" alt="Adobe Illustrator" />
+  <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/max2020/mnemonics/photoshop.svg" height="40" alt="Adobe Photoshop" />
+  <img src="https://unity.com/sites/default/files/2021-08/unity-logo-black.png" height="40" alt="Unity" />
+  <img src="https://gradle.org/images/gradle-enterprise-logo.svg" height="40" alt="Gradle" />
 
 ### 🖥️ Operating Systems
-- **Windows** • **Linux**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</a>
+
+</div>
+<br/>
 
 
 
