@@ -1,4 +1,4 @@
-# Hii, I'm Kunal! 👋
+# Hi, I'm Kunal
 
 <div align="center">
   <img src="coder.gif" width="600"/>
@@ -6,7 +6,7 @@
 
 
 <!-- Activity Graph and Stats -->
-<h2 align="center">📊 Contribution Graph and Stats</h2>
+<h2 align="center">Contribution Graph and Stats</h2>
 
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark&hide_border=true&area=true&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -41,48 +41,48 @@
 
 ---
 
-### 👨‍💻 About Me:
+### About Me
 
-- 💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems
-- 🔥 Passionate about learning new technologies and gaining knowledge
-- 🐧 Currently exploring Linux and Data Structures & Algorithms
-- 📚 Working on various practice projects in Java, Python, and C
-- 🌱 Learning and implementing Machine Learning concepts
+- I love contributing to open-source projects and collaborating with the community to solve real-world problems
+- Passionate about learning new technologies and gaining knowledge
+- Currently exploring Linux and Data Structures & Algorithms
+- Working on various practice projects in Java, Python, and C
+- Learning and implementing Machine Learning concepts
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
-### 🧑‍💻 Languages
+### Languages
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
   </a>
       
     
-  ### 📚 Libraries & Frameworks
+  ### Libraries & Frameworks
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,npm,vite" />
   </a>
 
     
-  ### 🗃️ Databases
+  ### Databases
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,sqlite" />
   </a>
 
 
-   ### ☁️ Cloud Services
+   ### Cloud Services
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
   </a>
    
     
-  ### 🛠️ Software Tools
+  ### Software Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,blender,docker,unity" />
   </a>
 
-### 🖥️ Operating Systems
+### Operating Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </a>
@@ -92,7 +92,7 @@
 
 
 
-### 📂 Featured Repositories:
+### Featured Repositories
 
 - [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
 - [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
@@ -101,7 +101,7 @@
 - [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
 - [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
 
-### 📊 My GitHub Stats:
+### GitHub Stats
 
 <!-- GitHub Streak Stats -->
 <div align="center">
