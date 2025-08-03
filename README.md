@@ -1,4 +1,4 @@
-# Hi, I'm Kunal
+# Hi, I'm Kunal Sanga!
 
 <div align="center">
   <img src="coder.gif" width="600"/>
@@ -104,12 +104,39 @@
 
 </div>
 
+<div align="center">
+
 - [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
 - [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
 - [**Solana Token App**](https://github.com/kunalsanga/Solana-token-app.git) - Web3 application for Solana blockchain token management
 - [**NIT Jamshedpur Research**](https://github.com/kunalsanga/NIT-Jamshedpur-Research-work.git) - Research work and academic projects at NIT Jamshedpur
 - [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
 - [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
+
+</div>
+
+<div align="center">
+
+### **Recent Pull Requests & Activity**
+
+</div>
+
+<!-- Recent Pull Requests -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsanga&repo=DocDigest&theme=radical&cache_seconds=86400&v=2025" alt="DocDigest" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsanga&repo=Med-AI&theme=radical&cache_seconds=86400&v=2025" alt="Med-AI" width="400px">
+</div>
+
+<!-- Recent Activity -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsanga&layout=compact&theme=radical&cache_seconds=86400&v=2025" alt="Top Languages" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025" alt="WakaTime Stats" width="400px">
+</div>
+
+<!-- Recent Contributions -->
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025" alt="Contribution Stats" width="700px">
+</div>
 
 <div align="center">
 
