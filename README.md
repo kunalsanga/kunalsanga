@@ -46,60 +46,47 @@
 - 📚 Working on various practice projects in Java, Python, and C
 - 🌱 Learning and implementing Machine Learning concepts
 
-### 🛠️ Technologies & Tools:
+## Technologies I've worked with
 
-<h3>Languages</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-</p>
+<div align="center">
 
-<h3>Libraries and Frameworks</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite"/>
-</p>
+### Languages
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash" />
+  </a>
+      
+    
+  ### Libraries and Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+  </a>
 
-<h3>Databases</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-</p>
+    
+  ### Databases
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase" />
+  </a>
 
-<h3>Cloud Services</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP"/>
-</p>
 
-<h3>Software Tools</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/vercel.png" alt="Vercel"/>
-  <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="Blender"/>
-</p>
+   ### Cloud Services
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
+  </a>
+   
+    
+  ### Software Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
+  </a>
+ 
 
-<h3>Operating Systems / Kernels</h3>
-<p>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows"/>
-</p>
+### Operating Systems/ Kernels
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,windows,powershell" />
+</a>
+
+</div>
+<br/>
 
 
 
