@@ -52,13 +52,23 @@
 
 ### Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql,dart,cpp,solidity" />
   </a>
       
     
   ### Libraries and Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi,opencv" />
+  </a>
+
+  ### AI / ML Libraries
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/explosion/spaCy/website/src/images/icon.png" height="40" />
   </a>
 
     
