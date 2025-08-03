@@ -41,7 +41,11 @@
 
 ---
 
-### About Me
+<div align="center">
+
+### **About Me**
+
+</div>
 
 - I love contributing to open-source projects and collaborating with the community to solve real-world problems
 - Passionate about learning new technologies and gaining knowledge
@@ -49,40 +53,44 @@
 - Working on various practice projects in Java, Python, and C
 - Learning and implementing Machine Learning concepts
 
-## Technologies & Tools
+<div align="center">
+
+## **Technologies & Tools**
+
+</div>
 
 <div align="center">
 
-### Languages
+### **Languages**
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
   </a>
       
     
-  ### Libraries & Frameworks
+  ### **Libraries & Frameworks**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,npm,vite" />
   </a>
 
     
-  ### Databases
+  ### **Databases**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,sqlite" />
   </a>
 
 
-   ### Cloud Services
+   ### **Cloud Services**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,vercel" />
   </a>
    
     
-  ### Software Tools
+  ### **Software Tools**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,blender,docker,unity" />
   </a>
 
-### Operating Systems
+### **Operating Systems**
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </a>
@@ -90,9 +98,11 @@
 </div>
 <br/>
 
+<div align="center">
 
+### **Featured Repositories**
 
-### Featured Repositories
+</div>
 
 - [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
 - [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
@@ -101,7 +111,11 @@
 - [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
 - [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
 
-### GitHub Stats
+<div align="center">
+
+### **GitHub Stats**
+
+</div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
