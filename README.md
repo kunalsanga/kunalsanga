@@ -52,31 +52,31 @@
 
 ### Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash,html,css,sql" />
   </a>
       
     
   ### Libraries and Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,django,fastapi" />
   </a>
 
     
   ### Databases
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,sqlite" />
   </a>
 
 
    ### Cloud Services
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud,vercel,render" />
   </a>
    
     
   ### Software Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender,jupyter,postman" />
   </a>
  
 
