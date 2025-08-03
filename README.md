@@ -4,9 +4,9 @@
   <img src="coder.gif" width="600"/>
 </div>
 
-<!-- 3D Contribution Profile -->
+<!-- GitHub Profile Summary -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" width="700px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Profile Summary" width="700px"/>
 </div>
 
 <!-- Activity Graph and Stats -->
