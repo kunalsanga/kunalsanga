@@ -114,28 +114,6 @@
 
 <div align="center">
 
-### **GitHub Activity & Pull Requests**
-
-</div>
-
-<!-- Recent Pull Requests -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsanga&repo=DocDigest&theme=radical&cache_seconds=86400&v=2025" alt="DocDigest" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalsanga&repo=Med-AI&theme=radical&cache_seconds=86400&v=2025" alt="Med-AI" width="400px">
-</div>
-
-<!-- Recent Activity -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsanga&layout=compact&theme=radical&cache_seconds=86400&v=2025" alt="Top Languages" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalsanga&show_icons=true&theme=radical&cache_seconds=86400&v=2025" alt="GitHub Stats" width="400px">
-</div>
-
-<!-- Recent Contributions -->
-<div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025" alt="Contribution Stats" width="700px">
-</div>
-
-<div align="center">
 
 ### **GitHub Stats**
 
