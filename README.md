@@ -4,9 +4,9 @@
   <img src="coder.gif" width="600"/>
 </div>
 
-<!-- GitHub Profile Trophy -->
+<!-- GitHub Contribution Snake -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalsanga&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="700px"/>
+  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="700px"/>
 </div>
 
 
