@@ -4,6 +4,11 @@
   <img src="coder.gif" width="600"/>
 </div>
 
+<!-- 3D Contribution Profile -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Profile" width="700px"/>
+</div>
+
 
 <!-- Activity Graph and Stats -->
 <h2 align="center">Contribution Graph and Stats</h2>
@@ -103,7 +108,7 @@
 
 ### **Featured Repositories**
 
-</div>
+<div align="center">
 
 - [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
 - [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
@@ -111,6 +116,10 @@
 - [**NIT Jamshedpur Research**](https://github.com/kunalsanga/NIT-Jamshedpur-Research-work.git) - Research work and academic projects at NIT Jamshedpur
 - [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
 - [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
+
+</div>
+
+</div>
 
 <div align="center">
 

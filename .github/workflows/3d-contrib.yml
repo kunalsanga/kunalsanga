@@ -1,33 +1,33 @@
-name: 3D-Contrib
+name: Generate 3D Profile Contribution
 
 on:
-  schedule: # runs every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # allows manual triggering
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-graph
+    name: generate-3d-profile
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
           
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Generate 3D Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
         with:
-          node-version: "18"
+          USERNAME: ${{ github.repository_owner }}
           
-      - name: Generate 3D-Contrib
-        run: |
-          npm install -g @yoyouyu/github-profile-3d-contrib
-          github-profile-3d-contrib --username ${{ github.repository_owner }} --output profile-3d-contrib/profile-night-rainbow.svg --theme night-rainbow
-          
-      - name: Deploy
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add profile-3d-contrib/.
-          git commit -m "3d-contrib update" || exit 0
+          git add -A .
+          git commit -m "Generated 3D profile contribution graph" || exit 0
           git push 
