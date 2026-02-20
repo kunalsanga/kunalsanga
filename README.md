@@ -4,10 +4,7 @@
   <img src="coder.gif" width="600"/>
 </div>
 
-<!-- GitHub Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="700px"/>
-</div>
+
 
 
 <!-- Activity Graph and Stats -->
