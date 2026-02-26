@@ -124,28 +124,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kunalsanga&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=86400" alt="GitHub Streak Stats" width="700px">
-</div>
-
----
-
-<!-- Contribution Timeline: Dec 4, 2023 → Present -->
-<h3 align="center">📅 Contribution Timeline (Dec 4, 2023 → Present)</h3>
-
-<div align="center">
-
-| Year | Contributions |
-|------|:---:|
-| 2023 (Dec 4 onwards) | 1 |
-| 2024 | 233 |
-| 2025 | 570 |
-| 2026 (Jan–Feb) | 111 |
-| **Total** | **915** |
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark&hide_border=true&area=true&from=2023-12-04&cache_seconds=86400" alt="Contribution Graph Dec 2023 – Present" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=86400&v=2025" alt="GitHub Streak Stats" width="700px">
 </div>
 
 ---
