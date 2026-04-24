@@ -9,14 +9,17 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          github_user_name: kunalsanga
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
