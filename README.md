@@ -127,6 +127,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=86400&v=2025" alt="GitHub Streak Stats" width="700px">
 </div>
 
+<!-- 3D GitHub Stats -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kunalsanga/kunalsanga/main/profile-3d-contrib/profile-night-view.svg" alt="Kunal's 3D GitHub Stats">
+</div>
+
 ---
 
 <div align="center">
