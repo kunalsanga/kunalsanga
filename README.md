@@ -100,16 +100,54 @@
 
 ### **Featured Repositories**
 
-<div align="center">
+*A selection of software engineering systems, intelligent agents, and experimental AI research.*
 
-- [**DocDigest**](https://github.com/kunalsanga/DocDigest.git) - AI-powered PDF and text summarization app using BART transformer model
-- [**Med-AI**](https://github.com/kunalsanga/Med-AI.git) - AI-powered health consultation chatbot powered by Google Gemini AI
-- [**Solana Token App**](https://github.com/kunalsanga/Solana-token-app.git) - Web3 application for Solana blockchain token management
-- [**NIT Jamshedpur Research**](https://github.com/kunalsanga/NIT-Jamshedpur-Research-work.git) - Research work and academic projects at NIT Jamshedpur
-- [**AI Meet IBM**](https://github.com/kunalsanga/AI-Meet-IBM.git) - AI project collaboration with IBM technologies and solutions
-- [**Synapse**](https://github.com/kunalsanga/Synapse.git) - Advanced neural network and machine learning project
+<br/>
 
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/Harness-CLI">Harness CLI</a></h4>
+      <p><code>Developer Tools</code> &nbsp;<code>Autonomous Agents</code></p>
+      <p>Autonomous AI software-engineering CLI agent that plans, inspects repositories, modifies code, recovers from failures, and delivers verified results.</p>
+      <p><strong>Stack:</strong> Python, OpenRouter, CLI</p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/Adaptive-ai-architecture">Adaptive AI Architecture</a></h4>
+      <p><code>Continual Learning</code> &nbsp;<code>AI Research</code></p>
+      <p>Research architecture exploring continual learning paradigms, dynamic neural memory mechanisms, and adaptive systems designed to mitigate catastrophic forgetting.</p>
+      <p><strong>Stack:</strong> Python, PyTorch, Deep Learning</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/LLM-mental-health-diagnosis">LLM Mental Health Diagnosis</a></h4>
+      <p><code>AI Research</code> &nbsp;<code>Clinical AI Evaluation</code></p>
+      <p>Empirical research framework benchmarking LLMs on standardized clinical diagnostic vignettes with multi-provider evaluation pipelines and diagnostic accuracy metrics.</p>
+      <p><strong>Stack:</strong> Python, Azure OpenAI, Google Gemini, Ollama</p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/qmlhep-vqc-architecture-search">QMLHEP VQC Architecture Search</a></h4>
+      <p><code>Quantum ML</code> &nbsp;<code>Architecture Search</code></p>
+      <p>Closed-loop, feedback-driven framework coupling Variational Quantum Circuit (VQC) design with LLM-guided architecture search for high energy physics applications.</p>
+      <p><strong>Stack:</strong> Python, PennyLane, PyTorch, Ollama</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/Jansehat">Jansehat</a></h4>
+      <p><code>Full-Stack AI</code> &nbsp;<code>Telemedicine</code></p>
+      <p>Unified AI-driven telemedicine ecosystem connecting patients, healthcare providers, and pharmacists with intelligent triage, prescription workflows, and digital consultations.</p>
+      <p><strong>Stack:</strong> React 19, JavaScript, Google Gemini AI, Node.js</p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://github.com/kunalsanga/Kepler">Kepler</a></h4>
+      <p><code>Multimodal AI</code> &nbsp;<code>Local-First Systems</code></p>
+      <p>Local-first, privacy-focused AI workstation combining real-time streaming LLM conversation with on-device text-to-image and text-to-video generation.</p>
+      <p><strong>Stack:</strong> Python, Next.js 14, Ollama, ComfyUI, SD Turbo</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
