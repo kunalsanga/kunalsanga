@@ -16,8 +16,6 @@ jobs:
           echo "Warming up GitHub stats services..."
           
           # Warm up each service with a simple request
-          curl -f -s "https://github-readme-stats.vercel.app/api?username=kunalsanga&show_icons=true&theme=radical" > /dev/null || echo "GitHub Stats service unavailable"
-          curl -f -s "https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark" > /dev/null || echo "Activity Graph service unavailable"
           curl -f -s "https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical" > /dev/null || echo "Streak Stats service unavailable"
           curl -f -s "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical" > /dev/null || echo "Profile Summary service unavailable"
           

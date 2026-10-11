@@ -10,20 +10,18 @@
 <!-- Activity Graph and Stats -->
 <h2 align="center">Contribution Graph and Stats</h2>
 
-[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalsanga&theme=react-dark&hide_border=true&area=true&cache_seconds=86400)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsanga&theme=radical" alt="GitHub contribution activity" width="100%" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsanga&theme=radical" alt="Top languages by repository" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsanga&theme=radical" alt="Top languages by commits" width="49%" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsanga&theme=radical&cache_seconds=86400&v=2025"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsanga&theme=radical" alt="GitHub statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsanga&theme=radical&utcOffset=5.5" alt="Most productive coding hours" width="49%" />
 </div>
 
 
@@ -124,7 +122,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=86400&v=2025" alt="GitHub Streak Stats" width="700px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsanga&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_seconds=86400&v=2025" alt="GitHub Streak Stats" width="700">
 </div>
 
 <!-- 3D GitHub Stats -->
