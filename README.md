@@ -45,11 +45,11 @@
 
 </div>
 
-- I love contributing to open-source projects and collaborating with the community to solve real-world problems
-- Passionate about learning new technologies and gaining knowledge
-- Currently exploring Linux and Data Structures & Algorithms
-- Working on various practice projects in Java, Python, and C
-- Learning and implementing Machine Learning concepts
+- **Software Engineer** focused on building scalable applications, backend systems, APIs, and developer tools.
+- **AI/ML Engineer** working with LLMs, Generative AI, RAG, Agentic AI, multimodal systems, and computer vision.
+- **Researcher** with experience at IIT Roorkee and NIT Jamshedpur, and a published IEEE conference paper on multimodal deep learning.
+- Interested in **Continual Learning, Neural Memory, and Quantum Machine Learning**, exploring approaches to more adaptive and efficient intelligent systems.
+- Passionate about **open-source development, system design, experimentation, and translating research into practical applications**.
 
 <div align="center">
 
