@@ -2,9 +2,16 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   push:
+    paths-ignore:
+      - 'assets/**'
+      - 'profile-3d-contrib/**'
+      - 'tests/**'
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:

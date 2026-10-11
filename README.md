@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsanga&theme=radical" alt="Top languages by repository" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsanga&theme=radical" alt="Top languages by commits" width="49%" />
+  <img src="assets/stats/overview_stats.svg" alt="Verified GitHub Overview Statistics" width="49%" />
+  <img src="assets/stats/language_stats.svg" alt="Top Languages by Verified Code Volume" width="49%" />
 </div>
 
 <div align="center">

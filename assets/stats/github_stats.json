@@ -1,0 +1,59 @@
+{
+  "username": "kunalsanga",
+  "fetched_at": "2026-10-11T18:36:14.498217+00:00",
+  "source": "GitHub REST & GraphQL API",
+  "is_authenticated": false,
+  "user": {
+    "name": "kunal sanga",
+    "login": "kunalsanga",
+    "public_repos": 147,
+    "followers": 11,
+    "following": 1,
+    "created_at": "2023-12-04T14:41:06Z"
+  },
+  "repos": {
+    "total_public": 147,
+    "total_forks_owned": 77,
+    "total_sources_owned": 70,
+    "total_stars": 10,
+    "total_forks_count": 15,
+    "total_open_issues": 1
+  },
+  "languages": {
+    "breakdown": {
+      "CSS": 578560,
+      "Jupyter Notebook": 9084928,
+      "Python": 37114880,
+      "JavaScript": 145768448,
+      "TypeScript": 26107904,
+      "HTML": 53602304,
+      "C++": 2141184,
+      "C": 38912,
+      "Java": 30720,
+      "Kotlin": 119808
+    },
+    "total_bytes": 274587648,
+    "percentages": {
+      "JavaScript": 53.09,
+      "HTML": 19.52,
+      "Python": 13.52,
+      "TypeScript": 9.51,
+      "Jupyter Notebook": 3.31,
+      "C++": 0.78,
+      "CSS": 0.21,
+      "Kotlin": 0.04,
+      "C": 0.01,
+      "Java": 0.01
+    }
+  },
+  "contributions": {
+    "total_year": 0,
+    "current_streak": 0,
+    "longest_streak": 0,
+    "total_commits": 0,
+    "total_prs": 0,
+    "total_issues": 0,
+    "total_reviews": 0,
+    "has_graphql_data": false
+  }
+}
